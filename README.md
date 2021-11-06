@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **fun0313/fun0313** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Stats](https://github-readme-stats.vercel.app/api?username=fun0313)
-  
+![Stats](https://github-readme-stats.vercel.app/api?username=fun0313&show_icons=true)
   
 ![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=fun0313&layout=compact)
